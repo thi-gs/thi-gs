@@ -2,6 +2,7 @@
 
 Atualmente, estou me dedicando a:
 - Faculdade de Análise e Desenvolvimento de Sistema pela Wyden
+- Trilha Backend na 14ª edição do Vem Ser DBC
 - Formação Desenvolvedor Jr Fullstack pela +praTI
 <div align="center">
   <a href="https://www.linkedin.com/in/thiago-gs/" target="_blank">
